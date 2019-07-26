@@ -13,9 +13,9 @@
 
   <h3>Links to some project files</h3>
   <ul>
-    <li><strong>ERD Diagram:</strong><a href="#"><img src="Soln\ERD_CA.PNG"></a></li>
-    <li><a href="#" target="_blank"> <strong>Github</strong></a></li>
-    <li><strong>Twitter:</strong><a href="#">Coming soon</a></li>
+    <li><strong>Find below the ERD Diagram:</strong><a href="#"><img src="Soln\ERD_CA.PNG"></a></li>
+  <li><strong>We also designed the schema from the ERD diagram</strong>
+
   </ul>
   
 </body>
